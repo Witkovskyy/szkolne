@@ -1,0 +1,47 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.baner-lewy{
+    background-color: #29434E;
+    color:white;
+    text-align: center;
+    width: 70%;
+    height: 70px;
+}
+.baner-prawy{
+    background-color: #29434E;
+    color:white;
+    width: 30%;
+    height: 70px;
+}
+.lista{
+    background-color: #b0bec5;
+    height: 320px;
+    overflow:scroll;
+}
+footer{
+    background-color: #29434E;
+    color: white;
+}
+div{
+    padding: 5px;
+    width: 226px;
+    height: 280px;
+}
+h3{
+    background-color: #546E7A;
+    color:white;
+    margin: 0px;
+}
+h4{
+    text-align: center;
+    margin: 0px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+}
+article{
+    display: flex;
+    flex-direction: row;
+}

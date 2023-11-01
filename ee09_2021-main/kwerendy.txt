@@ -1,0 +1,16 @@
+kwerenda1
+SELECT id, imie, nazwisko, rok_urodzenia, zdjecie
+FROM osoby
+LIMIT 30;
+kwerenda2
+SELECT imie, nazwisko, rok_urodzenia, opis, zdjecie , nazwa
+FROM osoby
+JOIN hobby ON osoby.Hobby_id = hobby.id
+WHERE osoby.id=10;
+kwerenda3
+SELECT AVG(rok_urodzenia), MAX(rok_urodzenia), MIN(rok_urodzenia)
+FROM osoby;
+kwerenda4
+UPDATE osoby
+SET opis="muzyka"
+where id=4;

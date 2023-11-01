@@ -1,0 +1,32 @@
+kwerenda1
+SELECT 
+	id, nazwa, opis, zdjecie
+FROM 
+	produkty
+WHERE
+	id IN (18,22,23,25);
+
+kwerenda2
+SELECT 
+	id, nazwa, opis, zdjecie
+FROM 
+	produkty
+WHERE
+	rodzaje_id = 12;
+
+kwerenda3
+SELECT 
+	produkty.nazwa, rodzaje.nazwa
+FROM 
+	produkty
+JOIN 
+	rodzaje ON produkty.Rodzaje_id = rodzaje.id
+WHERE
+	opis LIKE "%Leia%";
+
+kwerenda4
+DELETE 
+FROM
+	produkty
+WHERE
+	id=15;
