@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Konwerter walut</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <form action="script.js">
+            <h1>Konwerter</h1>
+            <p id="current-date">Stan kursów na: </p>
+            <section>
+                <select id="waluta-z" name="waluta1">
+                    <option value="" selected>--</option>
+                    <option value="eur">EUR</option>
+                    <option value="pln">PLN</option>
+                </select>
+                <label for="zmiana-waluty">zamień na</label>
+                <select id="waluta-po" name="waluta2">
+                    <option value="" selected>--</option>
+                    <option value="eur">EUR</option>
+                    <option value="pln">PLN</option>
+                </select>
+            </section>
+            <label for="ilosc-pieniedzy">Ilość:</label>
+            <input type="number" id="ilosc">
+            <button type="submit" id="submit" value="submit">Oblicz</button>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
