@@ -1,2 +1,1 @@
 # szkolne
-Takie tam
