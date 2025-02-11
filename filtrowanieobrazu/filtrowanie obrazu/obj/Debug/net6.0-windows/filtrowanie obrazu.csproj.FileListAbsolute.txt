@@ -1,0 +1,35 @@
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie_obrazu.Form1.resources
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.exe
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.deps.json
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.runtimeconfig.json
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.dll
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.pdb
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.dll
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\refint\filtrowanie obrazu.dll
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.pdb
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\ref\filtrowanie obrazu.dll
+C:\Users\lukas\Desktop\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie_obrazu.Properties.Resources.resources
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.exe
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.deps.json
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.runtimeconfig.json
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.dll
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\bin\Debug\net6.0-windows\filtrowanie obrazu.pdb
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie_obrazu.Form1.resources
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie_obrazu.Properties.Resources.resources
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.csproj.GenerateResource.cache
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.AssemblyInfo.cs
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.dll
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\refint\filtrowanie obrazu.dll
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.pdb
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\filtrowanie obrazu.genruntimeconfig.cache
+C:\Users\lukas\Desktop\gówno\Kursy\C#\filtrowanie obrazu\filtrowanie obrazu\obj\Debug\net6.0-windows\ref\filtrowanie obrazu.dll
